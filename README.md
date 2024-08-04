@@ -1,32 +1,34 @@
 Budget Tracker Application
-Project Overview:
 
+--> Project Overview:
 Developed a comprehensive budget tracker application using Java and Swing for desktop GUI.
+
 Key Features:
 
-Expense Management:
+--> Expense Management:
 Users can add expenses with details such as name, amount, and category.
 Display of all recorded expenses in a list format.
-Budget Setting:
+--> Budget Setting:
 Allows users to set a budget for tracking purposes.
 Displays the current budget amount.
-Remaining Budget Calculation:
+--> Remaining Budget Calculation:
 Calculates and displays the remaining budget after accounting for all expenses.
-Data Export:
+--> Data Export:
 Provides functionality to export all expenses to a CSV file for external analysis.
-User Interface:
 
+--> User Interface:
 Created a user-friendly interface with multiple tabs for different functionalities.
 Centered labels and well-organized layout for ease of use.
+
 Technical Stack:
 
-Programming Language:
+--> Programming Language:
 Java
-Framework:
+--> Framework:
 Swing for GUI development
-Tools:
+--> Tools:
 Integrated with standard Java libraries for file I/O and event handling.
-Responsibilities:
+--> Responsibilities:
 
 Designed and implemented the data model for managing expenses.
 Developed the GUI components for adding, displaying, and exporting expenses.
